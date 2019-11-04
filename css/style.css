@@ -296,3 +296,6 @@ button{
 	font-size: 25px;
 	color: white;
 }
+html{
+	background-color:rgba(23,23,23,1);
+}
