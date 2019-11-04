@@ -1,0 +1,298 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___1 {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(121,121,121,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+.ID597bceae4528e621008b58b2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1197px;
+	left: 0px;
+	top: -149px;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 450px;
+	left: 660px;
+	top: 315px;
+}
+#Welcome {
+	position: absolute;
+	left: 858px;
+	top: 340px;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 400px;
+	height: 1px;
+	left: 760.456px;
+	top: 417px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 500px;
+	height: 50px;
+	left: 710px;
+	top: 621px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#E_Mail {
+	position: absolute;
+	left: 725px;
+	top: 463px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Password {
+	position: absolute;
+	left: 725px;
+	top: 529px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#SIGN_IN {
+	position: absolute;
+	left: 916px;
+	top: 628px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#I_forgot_my_password {
+	position: absolute;
+	left: 710px;
+	top: 584px;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 56px;
+	left: 660px;
+	top: 709px;
+}
+#Create_an_account {
+	position: absolute;
+	left: 881px;
+	top: 721px;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Nav_Bar {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Login_btn {
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	height: 35px;
+	left: 1788px;
+	top: 15px;
+}
+#Log_in {
+	position: absolute;
+	left: 1813px;
+	top: 21px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Home {
+	position: absolute;
+	left: 225px;
+	top: 20px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Home:hover{
+	color:crimson;
+}
+#Products {
+	position: absolute;
+	left: 330px;
+	top: 20px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Products:hover{
+	color:crimson;
+}
+#About {
+	position: absolute;
+	left: 460px;
+	top: 20px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#About:hover{
+	color:crimson;
+}
+.tesla_logo_text_png_14 {
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	height: 34px;
+	left: 14px;
+	top: 17px;
+}
+.tesla_logo_text_png_14  :hover{
+	transform: scale(1.01);
+	filter: drop-shadow(0 0 0.75rem crimson);
+	z-index:10;
+}
+.Nav_Bar_A0_Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 65px;
+	left: 0px;
+	top: 1015px;
+}
+#username{
+	position: relative;
+	right: 15px;
+	bottom: 6px;
+	width: 500px;
+	height: 50px;
+	box-sizing: border-box;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-left: 5px;
+	font-size: 25px;
+}
+
+#password{
+	position: relative;
+	right: 15px;
+	bottom: 5px;
+	width: 500px;
+	height: 50px;
+	box-sizing: border-box;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-left: 5px;
+	font-size: 25px;
+}
+
+button{
+	position: relative;
+	right: 206px;
+	bottom: 7px;
+	width: 500px;
+	height: 50px;
+	box-sizing: border-box;
+	background-color: #b40000;
+	border: 1px solid #b40000;
+	border-radius: 100px;
+	padding-left: 5px;
+	font-size: 25px;
+	color: white;
+}
